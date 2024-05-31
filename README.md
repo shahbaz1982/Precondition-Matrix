@@ -1,2 +1,2 @@
 # Precondition-Matrix
-IMAGE DEBLURRING WITH NOVELPRECONDITIONING Method for ID Problem
+Preconditioning Method for ID Problem
